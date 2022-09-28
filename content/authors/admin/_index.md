@@ -18,22 +18,22 @@ social:
     link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
   - icon: github
     icon_pack: fab
-    link: https://github.com/gcushen
+    link: https://github.com/pbarbarant
   - icon: linkedin
     icon_pack: fab
-    link: https://www.linkedin.com/
+    link: https://www.linkedin.com/in/plbarbarant/
 organizations:
-  - name: Stanford University
-    url: https://www.stanford.edu/
+  - name: ENSAE Paris
+    url: https://www.ensae.fr/en
 education:
   courses:
-    - course: PhD in Artificial Intelligence
-      institution: Stanford University
-      year: 2012
-    - course: MEng in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2009
-    - course: BSc in Artificial Intelligence
+    - course: MRes Computer Vision
+      institution: Sorbonne Université
+      year: 2023
+    - course: MEng in Data science
+      institution: ENSAE Paris
+      year: 2011
+    - course: BSc in Statistics and economics
       institution: Massachusetts Institute of Technology
       year: 2008
 email: ""
